@@ -1,2 +1,2 @@
 # sourceme
-Add `source ~/.sourceme/*` to your `.bashrc` `.bash_profile` etc
+Add `source ~/.sourceme/*.bash` to your `.bashrc` `.bash_profile` etc
